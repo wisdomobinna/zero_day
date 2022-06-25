@@ -1,2 +1,2 @@
 #!/bin/bash
-it prints just the kernel name.
+The command Uname on "Linux" prints just the kernel.
